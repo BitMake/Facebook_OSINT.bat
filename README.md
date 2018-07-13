@@ -1,1 +1,0 @@
-# Facebook_OSINT.bat
